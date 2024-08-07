@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmericanNDN
-- 👀 I’m interested in IOTA support.
-- 🌱 I’m currently learning GitHub.
+- 👀 I’m interested in crypto wallet support and web development.
+- 🌱 I’m currently learning GitHub and vs code.
 - 💞️ I’m looking to collaborate on lost IOTA Profile/Account.
 - 📫 How to reach me Skip3726@protonmail.com
 - 😄 Pronouns: she/her.
